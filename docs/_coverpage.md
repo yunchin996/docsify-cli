@@ -3,7 +3,7 @@
 # docsify <small>3.5</small>
 
 [GitHub](https://github.com/yunchin996/docsify-cli)
-[Get Started](#初始化)
+[Get Started](#mydocsify)
 
 <!-- 背景图片 -->
 
