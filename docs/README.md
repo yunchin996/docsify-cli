@@ -1,3 +1,3 @@
 # mydocsify
 
-> An awesome project.
+> An awesome [project](https://docsify.js.org/#/zh-cn/).
