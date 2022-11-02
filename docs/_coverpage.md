@@ -2,8 +2,8 @@
 
 # docsify <small>3.5</small>
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+[GitHub](https://github.com/yunchin996/docsify-cli.git)
+[Get Started](#初始化)
 
 <!-- 背景图片 -->
 
